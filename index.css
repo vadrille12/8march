@@ -95,6 +95,12 @@
   color: #6d645a;
 }
 
+.hero-congrats {
+  display: inline-block;
+  font-family: "Shantell Sans", cursive;
+  color: #6d645a;
+}
+
 .cl-img {
   display: inline;
   box-shadow: 0px 0px 26px -8px rgba(112, 112, 112, 1);
