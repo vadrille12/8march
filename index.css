@@ -114,3 +114,10 @@
 .evt {
   gap: 20px;
 }
+
+.gallery-cards-container {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
