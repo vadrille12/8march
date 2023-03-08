@@ -1,0 +1,108 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.header {
+  padding: 20px;
+  border-bottom: 2px solid #8a8a8a;
+}
+
+.title {
+  margin: 0;
+  color: #5c5c5c;
+  font-family: "Shantell Sans", cursive;
+  text-transform: uppercase;
+}
+
+.title-number {
+  font-size: 30px;
+  color: #454545;
+  font-weight: 800;
+}
+
+.number {
+  position: absolute;
+  top: 20px;
+  left: 40px;
+  padding: 10px 20px;
+  border-radius: 20px;
+  font-weight: 800;
+  font-size: 70px;
+  color: #454545;
+  font-family: "Shantell Sans", cursive;
+  background-color: #fff;
+}
+
+.hero-text {
+  position: absolute;
+  right: 200px;
+  bottom: 20px;
+  padding: 15px 30px;
+  border-radius: 20px;
+  font-weight: 800;
+  font-size: 60px;
+  color: #454545;
+  text-transform: uppercase;
+  font-family: "Shantell Sans", cursive;
+  text-align: right;
+  background-color: #fff;
+}
+
+.text {
+  padding: 5px;
+  margin: 0;
+  border-bottom: 2px solid #8a8a8a;
+  border-right: 2px solid #8a8a8a;
+  border-left: 2px solid #8a8a8a;
+  font-family: "Shantell Sans", cursive;
+  font-weight: 500;
+  color: #454545;
+}
+
+.img-we {
+  margin-bottom: -5px;
+}
+
+.img-wrapper {
+  position: relative;
+}
+
+.name {
+  margin: 50px 0;
+  padding: 10px;
+  font-weight: 800;
+  color: #454545;
+  font-family: "Shantell Sans", cursive;
+}
+
+.name-in {
+  color: #8a8a8a;
+  font-weight: 500;
+  font-family: "Shantell Sans", cursive;
+}
+
+.cl-name {
+  font-family: "Shantell Sans", cursive;
+  font-weight: 600;
+  color: #191919;
+  font-size: 20px;
+}
+
+.congrats {
+  display: inline-block;
+  min-width: 200px;
+  max-width: 450px;
+  font-family: "Shantell Sans", cursive;
+  color: #6d645a;
+}
+
+.cl-img {
+  display: inline;
+  box-shadow: 0px 0px 26px -8px rgba(112, 112, 112, 1);
+}
+
+.congrats-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
